@@ -113,3 +113,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Cinnamon Toast
+
+Ingredients:
+- 2 slices of bread
+- 2 tbsp butter, softened 
+- 1 tbsp sugar
+- 1 tsp cinnamon
+
+Instructions:
+1. Combine cinnamon and sugar.
+2. Toast bread until golden brown.
+3. Butter toasted bread.
+4. Sprinkle with cinnamon-sugar mixture.
+5. Eat.
